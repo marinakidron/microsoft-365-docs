@@ -1,5 +1,5 @@
 ---
-title: Permissions in the Microsoft 365 Defender portal
+title: Permissions for Microsoft Defender for Office 365 in the Microsoft 365 Defender portal
 f1.keywords: 
   - NOCSH
 ms.author: chrisda
