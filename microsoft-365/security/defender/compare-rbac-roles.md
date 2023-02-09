@@ -80,7 +80,7 @@ Use the tables in the following sections to learn more about how your existing i
 |Manage Alerts|Security operations \ Security data \ Security data basics (read) </br>Security operations \ Security data \ Alerts (manage)|
 |View-only Audit Logs|Security operations \ Security data \ Security data basics (read)|
 |Audit Logs|Security operations \ Security data \ Security data basics (read)|
-|Quarantine|Security operations \ Security data \ Email quarantine (manage)|
+|Quarantine Administrator|Security operations \ Security data \ Email quarantine (manage)|
 |Role Management|Authorization and settings \ Authorization (All permissions)|
 
 ### Map Microsoft Defender for Identity permissions to the Microsoft 365 Defender RBAC permissions
